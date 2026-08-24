@@ -1073,7 +1073,7 @@ Biological Validation
 
 **Md Tariqul Islam**
 
-Bioinformatics • Data Science • Molecular AI • Multi-Omics • Cloud Data Engineering
+Bioinformatics • Data Science • Molecular AI • Multi-Omics • Cloud Data Engineering  • Cancer Genomics
 
 GitHub: [@mtariqi](https://github.com/mtariqi)
 
