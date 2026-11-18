@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24347366-1682D4?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24347366)
+  <a href="https://doi.org/10.5281/zenodo.24347545"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24347545-1682D4?logo=zenodo&logoColor=white" alt="DOI"/></a>
   <a href="https://github.com/mtariqi/MOL-ENGINE-AI/actions"><img src="https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="CI"/></a>
   <img src="https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/dbt-Analytics%20Engineering-FF694B?logo=dbt&logoColor=white" alt="dbt"/>
